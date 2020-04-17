@@ -1,0 +1,154 @@
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+    font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+    z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
+#logo {
+  width: 100px;	
+}
+#header {
+  background: rgba(0,0,0);
+}
+#header a{
+	
+
+	font-size: 19px;
+}
+
+#footer {
+	background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+}
+#footer p {
+	color: white;
+}
+#submenu {
+	background-color: gray;
+}
+#submenu a:hover {
+	color: grey;
+}
+
+#fono {
+	color: whitesmoke;
+}
+
+#main .carousel-inner img{
+	 max-height: 85vh;
+	 object-fit: cover;
+	 filter: grayscale(80%);
+}
+#carousel {
+	 position: relative; 
+}
+
+#carousel p {
+  font-size: large;
+}
+#carousel .overlay{
+	position: absolute;
+	top: 0;
+	bottom:0;
+	left:0;
+	right:0;
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+}
+
+#carousel .overlay .container,
+#carousel .overlay .row {
+	height: 100%;
+}
+
+#PagSomos {
+	background-color: #343a40;
+	color: white;
+}
+
+#PagSomos img{
+	max-width: 100%;
+}
+
+
+
+#fono {
+	font-size: 20px;
+	font: outline;
+	
+}
+#aeropuerto {
+	background-color: #343a40;
+	color: white;
+}
+#aeropuerto img{
+	max-width: 100%;
+}
+
+#servbodas {
+	background-color: #343a40;
+	color: white;
+}
+
+#servbodas img{
+	max-width: 100%;
+}
+
+#serTours {
+	background-color: #343a40;
+	color: white;
+}
+
+#serTours img{
+	max-width: 100%;
+}
+
+
+#servPuerta {
+	background-color: #343a40;
+	color: white;
+}
+
+#servPuerta img{
+	max-width: 100%;
+}
+
+#estTren {
+	background-color: #343a40;
+	color: white;
+}
+
+#estTren img{
+	max-width: 100%;
+}
+
+#servhoras {
+	background-color: #343a40;
+	color: white;
+}
+
+#servhoras img{
+	max-width: 100%;
+}
+
+
+#serviajes {
+	background-color: #343a40;
+	color: white;
+}
+
+#serviajes img{
+	max-width: 100%;
+}
